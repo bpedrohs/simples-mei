@@ -4,7 +4,7 @@
 WordPress theme with support for WooCommerce.
 
 ## Layout
-![Layout Model](https://github.com/bpedrohs/simples-mei/blob/main/port-v1/screenshot.png)
+![Layout Model](https://github.com/bpedrohs/simples-mei/blob/main/screenshot.png)
 
 # Features
 
