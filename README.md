@@ -1,4 +1,5 @@
 # Simples Mei
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bpedrohs/simples-mei/blob/master/LICENSE)
 
 # About
 WordPress theme with support for WooCommerce.
