@@ -4,7 +4,7 @@
 # About
 WordPress theme with support for WooCommerce.
 
-## Layout Home
+## Layout home
 ![Layout Home](https://github.com/bpedrohs/simples-mei/blob/main/screenshot.png)
 
 # Features
